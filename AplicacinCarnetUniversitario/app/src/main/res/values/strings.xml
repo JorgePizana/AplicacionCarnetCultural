@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Aplicación Carnet Universitario</string>
+    <string name="txt_matricula">Matrícula</string>
+    <string name="txt_contrasena">Contraseña</string>
+    <string name="login_button">Acceder</string>
+    <string name="registrarse_button">Registrarse</string>
+    <string name="check_recordar">Recordarme</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Aplicación Carnet Universitario</string>
+    <string name="nav_header_subtitle">Estudiante</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="acerca_txt1">Carnet Team</string>
+    <string name="acerca_txt2">José Francisco Loya Tena\nJosé Manuel Padilla Caro\nJorge Luis Pizaña Martínez</string>
+    <string name="acerca_txt3">Contacto</string>
+    <string name="acerca_txt4">Lic. Luis Carlos González Martínez</string>
+    <string name="enviar_txt1">Selecciona el Rubro</string>
+    <string name="enviar_txt2">Selecciona el Evento</string>
+    <string name="enviar_txt3">Evidencia Fotográfica *</string>
+    <string name="enviar_txt4">Comentarios</string>
+    <string name="enviar_txt5">Enviar</string>
+    <string name="alumno">Alumno</string>
+    <string name="info_luis">Unidad de Comunicación, Carnet \nCultural y Clubes Estudiantiles</string>
+    <string name="facultad">Facultad de Ingeniería</string>
+    <string name="info_facultad">(614)442 9506 Extensión 2540\nlcgonzalezm@uach.mx\nfingcarnetcultural@gmail.com </string>
+    <string name="estudiantes">Estudiantes de Ingeniería en \nCiencias de la Computación</string>
+    <string name="fechaa">Fecha:</string>
+    <string name="lugar">Lugar:</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="registro">Registro</string>
+    <string name="registro_evento">Registrar Evento</string>
+    <string name="nombre_evento">Nombre del Evento</string>
+    <string name="fecha_evento">Fecha del Evento</string>
+    <string name="descripcion_evento">Descripción  del Evento</string>
+    <string name="tipo_evento">Tipo del Evento</string>
+    <string name="formulario_evento">Formulario de Eventos</string>
+
+
+</resources>

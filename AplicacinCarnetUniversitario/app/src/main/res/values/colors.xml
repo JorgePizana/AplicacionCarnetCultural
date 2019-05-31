@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3c0c46</color>
+    <color name="colorPrimaryDark">#5D126D</color>
+    <color name="colorAccent">#9768a2</color>
+    <color name="tabtextcolor">#9768a2</color>
+    <color name="myWhite">#f0e9f1</color>
+    <color name="myBlack">#09020a</color>
+    <color name="colorCarnet">#5D126D</color>
+    <color name="gris_opaco">#7d484848</color>
+
+</resources>
